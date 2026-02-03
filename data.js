@@ -15,7 +15,7 @@ const siteContent = {
     },
     intro: {
         title: "NATIVISM & RACISM IN THE 1920S: WHAT HAPPENED?",
-        text: "During the 1920s, the United States experienced a strong resurgence of nativism . After World War I, many Americans feared that immigrants were taking jobs, spreading radical political ideas (like communism), and changing American culture. These fears led to widespread discrimination, violence, and restrictive immigration laws often facilitated by white - native born Americans or groups like the KKK. Racism was also deeply embedded in society. African Americans faced segregation via Jim Crow laws, voter suppression, and racial violence. The deep south showcased some of the worse cases of racism steeming back to the Civil War, so the Great Migration was African Americans hoping for better opportunities and traveling up North. While there were more present opportunities in industrial life in the North during the World War, the North still presented systematic racism. Meanwhile, the KKK gained millions of members and held real political power in several states.",
+        text: "During the 1920s, the United States experienced a strong resurgence of nativism. After World War I, many Americans feared that immigrants were taking jobs, spreading radical political ideas (like communism), and changing American culture. These fears led to widespread discrimination, violence, and restrictive immigration laws often facilitated by white - native born Americans or groups like the KKK.\nRacism was also deeply embedded in society. African Americans faced segregation via Jim Crow laws, voter suppression, and racial violence. The deep south showcased some of the worse cases of racism steeming back to the Civil War, so the Great Migration was African Americans hoping for better opportunities and traveling up North. While there were more present opportunities in industrial life in the North during the World War, the North still presented systematic racism. Meanwhile, the KKK gained millions of members and held real political power in several states.",
         backgroundImage: "assets/page_4_img_0.png",
         inlineImage: "assets/page_10_img_0.png",
         imageCaption: "Members of the UNIA in Harlem, 1920s."
@@ -27,7 +27,7 @@ const siteContent = {
     vocabulary: [
         {
             term: "Nativism",
-            definition: "The belief that native-born Americans are superior to immigrants and that immigration should be restricted"
+            definition: "The belief that native-born Americans are superior to immigrants and that immigration should be restricted."
         },
         {
             term: "Xenophobia",
@@ -35,27 +35,27 @@ const siteContent = {
         },
         {
             term: "Quota System",
-            definition: "Limits on how many immigrants could enter the U.S. from certain countries"
+            definition: "Limits on how many immigrants could enter the U.S. from certain countries."
         },
         {
             term: "Eugenics",
-            definition: "A belief that some races are genetically superior, but is scientifically false"
+            definition: "A belief that some races are genetically superior; is scientifically false."
         },
         {
             term: "Segregation",
-            definition: "The enforced separation of racial groups"
+            definition: "The enforced separation of racial groups."
         },
         {
             term: "1st Red Scare",
-            definition: "(1970-1920s) A period of fear that communists and radicals were threatening the U.S., often blamed on immigrants"
+            definition: "(1970-1920s) A period of fear that communists and radicals were threatening the U.S., often blamed on immigrants."
         },
         {
             term: "Palmer Raids",
-            definition: "Government raids (1919–1920) targeting suspected radicals and immigrants, leading to arrests and mass deportations"
+            definition: "(1919–1920) Government raids targeting suspected radicals and immigrants, leading to arrests and mass deportations."
         },
         {
             term: "100% Americanism",
-            definition: "Belief that immigrants should abandon their cultures and fully adopt American customs"
+            definition: "Belief that immigrants should abandon their cultures and fully adopt American customs."
         },
         {
             term: "Deportation",
@@ -63,18 +63,18 @@ const siteContent = {
         },
         {
             term: "Misogyny",
-            definition: "Prejudice against women (relevant because immigrant women were also restricted and targeted)"
+            definition: "Prejudice against women (relevant because immigrant women were also restricted and targeted)."
         },
         {
             term: "Race Science",
-            definition: "Pseudoscientific belief used to justify racial hierarchies and immigration limits"
+            definition: "Pseudoscientific belief used to justify racial hierarchies and immigration limits."
         }
     ],
     vocabImages: [
         {
             src: "assets/page_3_img_0.png",
             title: "Cartoon from Puck, 1899",
-            caption: 'Cartoon from Puck, August 9, 1899 by J. S. Pughe. Uncle Sam sees hyphenated voters and asks, "Why should I let these freaks cast whole ballots when they are only half Americans?".'
+            caption: 'Cartoon from Puck, August 9, 1899 by J. S. Pughe. Uncle Sam sees hyphenated voters and asks, "Why should I let these freaks cast whole ballots when they are only half Americans?"'
         },
         {
             src: "assets/page_4_img_0.png",
@@ -140,27 +140,27 @@ const siteContent = {
     keyGroups: [
         {
             name: "Ku Klux Klan (KKK)",
-            description: "White supremacist group that targeted Black Americans, Catholics, Jews, and immigrants"
+            description: "White supremacist group that targeted Black Americans, Catholics, Jews, and immigrants."
         },
         {
             name: "American Protective Association",
-            description: "Earlier nativist group whose ideas influenced 1920s movements"
+            description: "Earlier nativist group whose ideas influenced 1920s movements."
         },
         {
             name: "Immigration Restriction League",
-            description: "Group that pushed for literacy tests and quotas"
+            description: "Group that pushed for literacy tests and quotas."
         },
         {
             name: "NAACP",
-            description: "Fought against racial violence, segregation, and discrimination during the 1920s"
+            description: "Fought against racial violence, segregation, and discrimination during the 1920s."
         },
         {
             name: "Mexican Immigrants",
-            description: "Faced discrimination and labor exploitation despite not being restricted by quotas"
+            description: "Faced discrimination and labor exploitation despite not being restricted by quotas."
         },
         {
             name: "Southern & Eastern European Immigrants",
-            description: "Italians, Jews, Poles, Greeks, and others heavily targeted by quota laws"
+            description: "Italians, Jews, Poles, Greeks, and others heavily targeted by quota laws."
         }
     ],
     keyGroupsImages: [
@@ -174,22 +174,22 @@ const siteContent = {
         {
             name: "Madison Grant",
             role: "Writer",
-            description: "Nature conservist & eugenicist whose ideas influenced immigration laws"
+            description: "Nature conservist & eugenicist whose ideas influenced immigration laws."
         },
         {
             name: "A. Mitchell Palmer",
             role: "Attorney General",
-            description: "Attorney General during the Red Scare who led raids against immigrants and radicals"
+            description: "Attorney General during the Red Scare who led raids against immigrants and radicals."
         },
         {
             name: "Calvin Coolidge",
             role: "President",
-            description: "President who signed the Immigration Act of 1924 and supported strict immigration limits"
+            description: "President who signed the Immigration Act of 1924 and supported strict immigration limits."
         },
         {
             name: "Lothrop Stoddard",
             role: "Writer",
-            description: "Influential writer and eugenicist whose ideas fueled fears about “racial decline”"
+            description: "Influential writer and eugenicist whose ideas fueled fears about \"racial decline.\""
         },
         {
             name: "Marcus Garvey",
@@ -201,7 +201,7 @@ const siteContent = {
         {
             src: "assets/page_9_img_0.png",
             title: "Marcus Garvey",
-            caption: "Marcus Garvey in c. 1920"
+            caption: "Marcus Garvey in c. 1920."
         }
     ],
     changeImages: [
@@ -218,12 +218,12 @@ const siteContent = {
     ],
     changeAndContinuity: {
         title: "The Change in America & Continuity",
-        text: "During the 1920s, the U.S. government made a clear shift by turning nativist and racist beliefs into official policy. Immigration laws such as the Emergency Quota Act of 1921 and the Immigration Act of 1924 restricted immigration based on race and nationality, favoring Northern and Western Europeans. Southern and Eastern European immigrants, Asian immigrants, African Americans, Catholics, and Jews were heavily impacted by discrimination and exclusion. In contrast, white, native-born Protestant Americans benefited the most from these policies. Despite these changes, racism and nativism were not new in American society. Minority groups, especially African Americans and Asian immigrants, had faced discrimination long before the 1920s. What remained consistent was the belief that some groups were inferior, but during the 1920s these ideas became more openly accepted and enforced by law.",
+        text: "During the 1920s, the U.S. government emphasized nativist and racist beliefs more so than in the past, plus creating policies derived from those beliefs. Immigration laws such as the Emergency Quota Act of 1921 and the Immigration Act of 1924 restricted immigration based on race and nationality, favoring Northern and Western Europeans. Furthermore, the white, native-born Protestant Americans benefitted these polices as they aligned with ideologies, and increased nativism/Americanism. On the contrary, the other immigrating groups - South and East Europeans and Asian immigrants declined in immigration groups and faced heavy discrimination upon arrival. Additionally, African Americans, Catholics, and Jews were heavily impacted in workforce, public sector, and politics due to discrimination and prejudice. Despite these changes in the 1920s, racism and nativism were not new in American society. Minority groups, especially African Americans and Asian immigrants, had faced discrimination long before the 1920s. Demonstrated by the Chinese Exclusion Act of 1882 which limited Chinese immigrants, or sharecropping and Black codes that oppress African Americans in society. Clearly, the belief that some groups were inferior remained persistent in US history, and continued even through the 1920s with Civil Rights movement taking place against discrimination and racism in the 1950s/60s. It's important to note that the degree of racism and nativism, and even the actions did experience change over each decade.",
         backgroundImage: "assets/page_11_img_0.png"
     },
     impact: {
-        title: "WHY IT MATTERS & EFFECTS",
-        text: "Nativism and racism in the 1920s mattered because they set a lasting precedent for using race and ethnicity as criteria in U.S. immigration law. Fear caused by economic instability, post–World War I anxiety, and the Red Scare led many Americans to support discriminatory policies. This era also demonstrated the political power of extremist groups, especially the Ku Klux Klan (KKK), which influenced elections and promoted white supremacy nationwide. The effects of 1920s nativism were long-lasting. Immigration rates dropped sharply for decades due to strict quota laws, while racial hierarchies and segregation were reinforced across the country. These policies and attitudes shaped future debates over civil rights, immigration reform, and who should be allowed to fully belong in American society.",
+        title: "EFFECTS & WHY IT MATTERS",
+        text: "The effects of 1920s nativism were long-lasting. Immigration rates dropped sharply for decades due to strict quota laws and immigration policies. While racial hierarchies and segregation were reinforced across the country - schools, public facilities, government buildings, etc. These policies and attitudes shaped future debates over who should be allowed to fully belong in American society. Additionally, this era of emphasized racism and nativism fueled the movement of civil rights in the later half of the 19th century, and pushed people to debate immigration enforcement and policies. Including, the future of American culture, and presence in global sector - either isolationist, interventing, imperializing.\nNativism and racism in the 1920s mattered because they set a lasting precedent for using race and ethnicity as criteria in U.S. immigration law. Fear caused by economic instability, post–World War I anxiety, and the Red Scare led many Americans to support discriminatory policies. This era also demonstrated the various justifications of immigration policies and discriminatory laws backed by isolationist ideals, white supremacy, eugenists, or nativists. While highlighting the growing power for organized groups like extremist group - Ku Klux Klan that influence many political elections through their vast network. Often counter by prominent Black leaders and activists like Marcus Garvey or W.E.B Du Bois.",
         backgroundImage: "assets/page_12_img_0.png"
     },
     impactImages: [

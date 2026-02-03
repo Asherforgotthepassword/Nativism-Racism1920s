@@ -44,7 +44,7 @@ function renderHero() {
 
 function renderIntro() {
     document.getElementById('intro-title').textContent = siteContent.intro.title;
-    document.getElementById('intro-text').textContent = siteContent.intro.text;
+    document.getElementById('intro-text').innerHTML = siteContent.intro.text.replace(/\n/g, '<br><br>');
 
     if (siteContent.intro.inlineImage) {
         const imgContainer = document.getElementById('intro-img-container');
@@ -286,7 +286,7 @@ function renderResolution() {
 // Helper for standard sections
 function renderSection(sectionId, data, titleId, textId) {
     document.getElementById(titleId).textContent = data.title;
-    document.getElementById(textId).textContent = data.text;
+    document.getElementById(textId).innerHTML = data.text.replace(/\n/g, '<br><br>');
 
     if (data.backgroundImage) {
         const section = document.getElementById(sectionId);
