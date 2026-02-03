@@ -14,8 +14,8 @@ const siteContent = {
         backgroundImage: "assets/page_1_img_0.png"
     },
     intro: {
-        title: "WHAT IS NATIVISM & RACISM IN THE 1920S? WHAT HAPPENED?",
-        text: "During the 1920s, the United States experienced a strong rise in nativism and racism. After World War I, many Americans feared that immigrants were taking jobs, spreading radical political ideas (like communism), and changing American culture. These fears led to widespread discrimination, violence, and restrictive laws. Racism was also deeply embedded in society. African Americans faced segregation, voter suppression, and racial violence, even as many moved north during the Great Migration hoping for better opportunities. Meanwhile, the Ku Klux Klan gained millions of members and held real political power in several states.",
+        title: "NATIVISM & RACISM IN THE 1920S: WHAT HAPPENED?",
+        text: "During the 1920s, the United States experienced a strong resurgence of nativism . After World War I, many Americans feared that immigrants were taking jobs, spreading radical political ideas (like communism), and changing American culture. These fears led to widespread discrimination, violence, and restrictive immigration laws often facilitated by white - native born Americans or groups like the KKK. Racism was also deeply embedded in society. African Americans faced segregation via Jim Crow laws, voter suppression, and racial violence. The deep south showcased some of the worse cases of racism steeming back to the Civil War, so the Great Migration was African Americans hoping for better opportunities and traveling up North. While there were more present opportunities in industrial life in the North during the World War, the North still presented systematic racism. Meanwhile, the KKK gained millions of members and held real political power in several states.",
         backgroundImage: "assets/page_4_img_0.png",
         inlineImage: "assets/page_10_img_0.png",
         imageCaption: "Members of the UNIA in Harlem, 1920s."
